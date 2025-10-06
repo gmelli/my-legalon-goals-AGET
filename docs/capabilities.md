@@ -57,12 +57,16 @@ I manage Gabor's work goals through Rippling's goal management system:
 - **Partial:** Playbook Agent (33.33%), MyPlaybook benchmarking (75%)
 - **Key Lesson:** Strong delivery, but tracking failed (stale percentages) - solved with bi-weekly updates for H2
 
-**2H FY2025 Priorities (ACTIVE):**
+**2H FY2025 Goals (ACTIVE - Draft):**
 - ✅ 1H percentages updated (81.67% final)
-- Structure 2H goals using hybrid pattern
-- Implement bi-weekly progress tracking (solve stale percentage problem)
-- Carryover: Playbook Agent completion (~Nov 7)
-- New goals: 10-min review PoC (Q3 demo), CRB engagement
+- ✅ Goal structure drafted (5 goals + 1 stretch)
+- **Goal 1:** Brand Awareness & Thought Leadership (CRB, NPS/reviews)
+- **Goal 2:** Playbook Agent Adoption (launch ~Nov 7, efficiency, ~10% of reviews)
+- **Goal 3:** My Playbooks Adoption (accuracy, usage/stickiness)
+- **Goal 4:** Data Infrastructure & Development Acceleration (Contract DB, QA automation)
+- **Goal 5:** H2 Hiring (3 AI Engineers: 2 in Q3, 1 in Q4)
+- **Stretch:** 10-min contract review PoC (Q3 demo)
+- Next: Define SMART metrics, manager alignment, bi-weekly tracking setup
 
 ---
 

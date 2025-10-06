@@ -53,18 +53,20 @@ Shows agent identity, git status, and capabilities.
 
 ## Current Focus - 2H FY2025
 
-**Status:** Planning and structuring 2H goals (hybrid pattern: product + theme based)
+**Status:** Goal structure drafted (5 goals + 1 stretch) - ready for SMART metric definition
 
-**Key Priorities:**
-1. Update 1H FY2025 percentages (all at 0% but work was done!)
-2. Structure 2H goals with SMART criteria
-3. Connect goals to active projects:
-   - Playbook Agent (production launch ~mid-Nov)
-   - CRB engagement (Contract Review Benchmark, PR/thought leadership)
-   - 10-minute contract review PoC (Q3 demo)
-   - Contract Database (public contracts, clauses, templates)
-   - LOA Session Analysis (expanded volume/depth)
-   - User-Session Data Capture (privacy/RTBF challenges)
+**H2 FY2025 Goals (Draft):**
+1. **Brand Awareness & Thought Leadership** - CRB engagement, NPS/reviews
+2. **Playbook Agent Adoption** - Launch ~Nov 7, efficiency, ~10% of reviews
+3. **My Playbooks Adoption** - Accuracy improvements, usage/stickiness
+4. **Data Infrastructure & Development Acceleration** - Contract DB, QA automation
+5. **H2 Hiring** - 3 AI Engineers (2 in Q3, 1 in Q4)
+6. **Stretch:** 10-min contract review PoC (Q3 demo)
+
+**Next Steps:**
+- Define SMART metrics for all KRs
+- Manager alignment
+- Set up bi-weekly progress tracking
 
 ---
 
